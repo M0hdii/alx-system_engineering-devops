@@ -1,3 +1,2 @@
 #!/bin/bash
 ls -A -p --sort=extension -m
-
