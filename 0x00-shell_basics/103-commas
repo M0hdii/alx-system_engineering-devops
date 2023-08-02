@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -A -p --sort=extension -m
+ls -a {.,..} -p --sort=extension -m
