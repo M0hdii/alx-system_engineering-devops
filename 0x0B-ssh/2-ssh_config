@@ -1,5 +1,3 @@
-SendEnv LANG LC_*
-HashKnownHosts yes
-GSSAPIAuthentication yes
+Host 	54.166.48.180
 PasswordAuthentication no
 IdentityFile ~/.ssh/school
