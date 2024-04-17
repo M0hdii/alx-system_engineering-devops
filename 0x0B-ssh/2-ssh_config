@@ -1,3 +1,7 @@
-Host 	54.166.48.180
+Host 510635-web-01
+Hostname	54.166.48.180
+User ubuntu
+PubKeyAuthentication yes
+IdentitiesOnly yes
 PasswordAuthentication no
 IdentityFile ~/.ssh/school
